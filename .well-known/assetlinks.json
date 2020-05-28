@@ -1,0 +1,1 @@
+[{ relation: [delegate_permission/common.handle_all_urls], target: { namespace: android_app, package_name: org.nativescript.application, sha256_cert_fingerprints: [94:82:A2:1A:22:94:CC:E8:49:D0:87:6C:B3:AB:80:04:F4:6C:7C:40:E3:53:D9:5F:08:6A:5A:DA:AE:6E:D1:F4] } }] 
